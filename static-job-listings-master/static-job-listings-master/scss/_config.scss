@@ -1,0 +1,19 @@
+$cont-bg-clr:hsl(180, 52%, 96%);
+$fil-bg-clr:hsl(180, 52%, 96%);
+$fw-light:500;
+$fw-dark:700;
+$fz-body:15px;
+$txt-clr:hsl(180, 29%, 50%);
+$h2-clr:hsl(180, 14%, 20%);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size:$fz-body;
+    line-height: 1.5rem;
+    font-family:'Spartan',sans-serif;
+    font-weight: $fw-light;
+}
